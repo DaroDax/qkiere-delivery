@@ -1,0 +1,129 @@
+.recibo_inv {
+    width: 90%;
+    border:1px solid #FF6A00;
+    border-radius: 20px;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 2.5%
+}
+
+.recibo_inv_head {
+    background-color: #FF6A00;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    padding: 10px 0px;
+    text-align: center;
+    color: #fff;
+    font-family: 'Montserrat',
+        sans-serif;
+}
+
+.recibo_inv_head h3 {
+    font-size: 1.2em;
+}
+
+.inv_list_item {
+    display: grid;
+    grid-template-columns: 0fr 1fr 0fr;
+    background-color:#F2F3F4;
+    border-bottom:1px solid #A6ACAF;
+    padding:12px 0px;
+}
+
+.inv_list_item:hover{
+    background-color:#FFA600;
+    color:#fff;
+    transition: background-color 0.5s;
+}
+
+i.far.fa-times-circle {
+    align-self: center;
+    margin-left: 5px;
+    color:#C0392B;
+}
+
+i.far.fa-times-circle:hover{
+    color:#1A5276;
+    cursor:pointer;
+}
+
+h5.inv_item {
+    margin-left: 10px;
+    margin-top: 5px;
+    font-family: 'Montserrat',
+    sans-serif;
+    font-weight:600;
+    font-size: 1em;
+}
+
+.inv_total {
+    display: grid;
+    grid-template-columns: 1fr 0fr;
+    padding: 10px 0px;
+}
+
+h4.price_total {
+    color: #E74C3C;
+}
+
+.a_button {
+    width: 90%;
+    background-color: #FF6A00;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    padding: 12px;
+    color: #fff;
+}
+
+.a_button:hover {
+    padding:20px 0px;
+    background-color: #FFA600;
+    transition: padding 0.5s;
+    
+}
+
+a.button-confir {
+    text-decoration: none;
+}
+
+select#mi_ubi {
+    width: 85%;
+    border: 1px solid #FF6A00;
+    padding: 15px 0px;
+    background-color: #F4F6F7;
+    outline: none;
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align-last:center;
+}
+
+.dir-list {
+    text-align: center;
+}
+
+.recibo_info {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border-bottom: 3px dashed #ccc;
+    border-top: 3px dashed #ccc;
+}
+
+h5.title_recibo {
+    font-weight: 400;
+}
+
+.recibo_content {
+    padding: 100px 5px
+}
+
+i.far.fa-plus-square {
+    color: #1ABC9C;
+}
+
+i.far.fa-plus-square:hover {
+    color: #5DADE2;
+    cursor:pointer;
+}

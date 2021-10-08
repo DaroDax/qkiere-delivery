@@ -1,0 +1,146 @@
+.chat-people {
+    border: 1px solid #FF6A00;
+    border-radius: 10px;
+}
+
+div.chat-head {
+    text-align: center;
+    background-color: #FF6A00;
+    color: #FFF;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    padding: 10px;
+}
+
+div.chat-head h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.chat-box {
+    padding: 10px;
+}
+
+.sec_tie,
+.sec_dom {
+    background-color: #e6e6e6;
+
+}
+
+.sec_tie h5,
+.sec_dom h5 {
+    font-family: 'Roboto', sans-serif;
+    padding: 5px;
+
+}
+
+.info_tie img,
+.info_dom img {
+    width: 80%;
+    padding: 10px;
+    border-radius: 100%;
+    height: 80px;
+}
+
+.info_tie,
+.info_dom {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    align-items: center;
+    font-family: 'Montserrat',
+    sans-serif;
+    font-weight:bold;
+    color:#000
+}
+
+a {
+    text-decoration: none;
+}
+
+/*Ventana Mensajes-------------------------------*/
+.chat-mensajes {
+    padding: 10px;
+}
+
+div#chat_view {
+    border: 1px solid #FF6A00;
+    height: 450px;
+}
+
+.chat_elements {
+    background-color: #FF6A00;
+    padding: 18px;
+    color: #fff;
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    align-items: center;
+}
+
+div.trash {
+    justify-self: right;
+}
+
+.sent_elements {
+    background-color: #e6e6e6;
+    padding: 12px;
+    display: grid;
+    grid-template-columns: 10fr 1fr;
+}
+textarea#msj {
+    width: 95%;
+    outline: none;
+    padding: 5px;
+    border-radius: 10px;
+}
+textarea {
+    resize: none;
+}
+i#btn_msj {
+
+    border-radius: 100%;
+    font-size: 2.5em;
+    color: #FF6A00;
+    text-align: center;
+    align-self: center;
+}
+
+i#btn_msj:hover{
+    cursor:pointer;
+    background-color: #FFA600;
+    transition:background-color 0.2s;
+
+}
+
+div.name h3 {
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.slf_msj {
+    background-color: #EBEBEE;
+    width: 50%;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px 2px;
+    color: #000;
+    font-family: 'Segoe UI';
+}
+
+.ent_msj {
+    width: 50%;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px 2px;
+    color: #fff;
+    background-color: #FF6A00;
+    font-family: 'Segoe UI';
+    padding: 5px 10px;
+}
+.nosotros {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.msj_window {
+    overflow: scroll;
+    height:400px;
+}

@@ -1,0 +1,103 @@
+@media screen and (min-width:960px){
+ /*Menu------------------------------*/
+  .cartas {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+
+  
+    column-gap: 35px;
+    row-gap: 20px;
+
+    padding:10px 10px
+    }
+  .card {
+    background-color:#fff;
+    border-radius:10px;
+    box-shadow: 8px 10px 14px 2px #524646;
+  }
+  /*Menu------------------------------*/
+  /*Tienda----------------------------*/
+.inv_list {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 30px;
+    row-gap: 20px;
+}
+
+div.img-card img {
+ 
+   height: 420px !important;
+}
+  /*Tienda----------------------------*/
+  /*Busqueda--------------------------*/
+.sitios-buscados, .productos-buscados {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 20px;
+    column-gap: 30px;
+    margin-top: 20px;
+}
+
+  /*Busqueda--------------------------*/
+
+  /*Categoria-------------------------*/
+  .categoria_content {
+    display: grid;
+    grid-template-columns: 55% 55% 55%;
+    grid-gap: 50px;
+    row-gap: 20px;
+}
+/*------------------------------------*/
+
+/*Carrito-----------------------------*/
+
+div#carrito_tienda {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 20px;
+    column-gap: 50px;
+}
+
+div.card-cart{
+  border-radius:10px;
+  box-shadow: 8px 10px 14px 2px #524646;
+}
+
+.carrito_content {
+    padding: 10px;
+}
+/*Carrito-----------------------------*/
+
+/*Pedidos-----------------------------*/
+.pedidos_resultado {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 20px;
+}
+/*-------------------------------------*/
+
+/*Cuenta-------------------------------*/
+img.usr-pic {
+    width: 10% !important;
+  }
+/*------------------------------------*/
+
+/*Fav---------------------------------*/
+.tie-fav {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.pro-fav {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+/*--------------------------------------*/
+
+
+}
+/*Ni mas ni menos para las imagenes*/
+div.img-card img{
+    height: 483px;
+}

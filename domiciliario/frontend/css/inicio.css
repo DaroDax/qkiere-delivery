@@ -1,0 +1,104 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+div.feed {
+    text-align: center;
+}
+
+.feed h1 {
+    font-family: 'Roboto Slab',
+    serif;
+}
+
+.feed h3 {
+    margin: 10px 0px;
+    font-family: 'Montserrat',
+        sans-serif;
+    color: #1D8348;
+}
+
+div.card {
+    width: 100%;
+    border-bottom: 1px solid #8c8b88;
+    padding-bottom: 5px;
+}
+
+div.inicio_content {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+
+div.img-card img{
+    width: 100%; 
+
+
+}
+
+div.text-card{
+    display: grid;
+    grid-template-columns: 1fr 0fr;
+    margin-left: 10px;
+}
+
+i.fas.fa-bookmark {
+
+    margin-right:5px;
+    color:#262320;
+    font-size: 2em;
+     display: inline-block;
+}
+
+h2.name-card{
+    font-family: 'Montserrat',
+    sans-serif;
+    font-family: 'Roboto Slab',
+    serif;
+    font-weight: 500;
+    font-size: 1.4em;
+     margin:15px 0px;
+     color: #000;
+}
+
+h3.category-card{
+    font-family: 'Montserrat',
+        sans-serif;
+    margin-bottom:2px;
+    font-size: 1em;
+     display: inline-block;
+     color: #000;
+}
+
+h5.horary-card{
+margin-bottom: 5px; 
+font-size: 0.8em;
+font-family: 'Roboto',
+sans-serif;
+color: #3498DB;
+
+}
+
+p.sec_mun{
+
+  justify-self: center;
+  margin-bottom: 5px;
+  font-family: 'Roboto Slab',
+  serif;
+  color: #262320;
+  
+}
+
+.title-card {
+    display: grid;
+    justify-content: center;
+
+}
+
+a.link_tie{
+    text-decoration: none;
+}
+
+

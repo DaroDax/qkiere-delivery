@@ -1,0 +1,222 @@
+div.tienda-name {
+    display: grid;
+    grid-template-columns: 0fr 1fr;
+    margin: 10px 10px;
+    text-align: left !important;
+}
+
+div.tienda-info{
+    text-align: left !important;
+}
+
+div.tienda-name img {
+    width: 80px;
+    border-radius: 100px;
+    border:1px solid #fff;
+}
+
+div.tienda-name h1 {
+    font-family: 'Comic Neue',
+    cursive;
+    font-size: 1.5em;
+    padding: 25px 20px;
+}
+
+.days_of_week {
+    font-family: 'Arial',
+        sans-serif;
+    font-weight: bold;
+}
+
+div.tienda-info h5 {
+    color: #3498DB;
+    margin-bottom: 5px;
+    font-family: 'Roboto',
+        sans-serif;
+}
+
+div.tienda-info h4 {
+    margin-top: 5px;
+    font-family: 'Montserrat',
+        sans-serif;
+}
+
+select#cat_pro {
+    margin: 25px 0px;
+    width: 85%;
+    padding: 15px;
+    border: solid 1px #FF6A00;
+    text-align-last: center;
+    font-family: 'Roboto',
+        sans-serif;
+    font-size: 1em;
+    outline: none;
+    background-color: #fff;
+}
+
+div.inv_list {
+    display: grid;
+    grid-template-columns: [x0] 1fr [x1] 1fr [x2] 1fr [x3];
+}
+
+div.img-card img {
+   width: 96%;
+   height: 98%;
+   border: 2px solid #fff;
+}
+
+.img-card {
+    height: 100%;
+}
+
+div.inv_cat{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+div.tienda-info {
+    margin: 10px;
+}
+
+/*-----------------------------------Cuenta Tienda---------------------------------*/
+
+
+.tienda_content {
+    padding:10px 10px;
+    border-radius:10px;
+    border:1px solid #FF6A00;
+    margin:10px;
+}
+
+.img_tienda {
+    display: flex;
+    justify-content: center;
+    border-bottom:1px solid #8c8c8c;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.form-control{
+    padding:10px;
+    width:80%;
+    margin-top: 5px ;
+    margin-bottom: 5px ;
+    border:1px solid #FF6A00;
+    border-radius:10px;
+    text-align:center;
+    margin-left: 5px;
+}
+
+.ci, .tel {
+    display: grid;
+    grid-template-columns: 0fr 1fr 3fr;
+    align-items:center ;
+        margin-left: 5px;
+}
+
+.name, .dir_tie, .mun, .ema, .fijo, .telegram{
+    display: grid;
+    grid-template-columns: 0fr 1fr;
+    align-items:center ;
+        margin-left: 5px;
+}
+
+.name input, .dir_tie textarea, .mun select, .ema input, .fijo input, .telegram input{
+    width:85% !important ;
+}
+
+div#sector {
+    margin-left: 15px;
+    width: 100%;
+}
+
+.hour_date {
+    border-top: 1px solid #8c8c8c;
+    border-bottom: 1px solid #8c8c8c;
+    padding:10px 0px;
+
+    display:grid;
+    grid-template-columns:1fr 1fr;
+}
+
+i.fab.fa-telegram {
+    cursor: pointer;
+}
+
+input#hor_lun_vie_hor_tie, input#appt {
+    width: 90%;
+    padding: 8px 0px;
+    border: 1px solid #FF6A00;
+    border-radius:10px;
+    outline:none;
+}
+
+.tie_opt {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.check_days {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.L, .M, .MI, .J, .V, .S, .D {
+    text-align: center;
+}
+
+.check_days {
+    padding: 10px 0px;
+    border-bottom:1px solid #8c8c8c;
+}
+
+.tie_opt {
+    padding: 20px 0px;
+    justify-items: center;
+}
+
+button.btn.btn-primary {
+    width: 80%;
+    padding: 10px 0px;
+    border: none;
+    background-color: #2471A3;
+    color:#FFF;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+button.btn.btn-success {
+    width: 80%;
+    padding: 10px 0px;
+    border: none;
+    background-color: #28B463;
+    color:#FFF;
+    font-family: 'Montserrat', sans-serif;
+}
+
+button.btn.btn-success:hover{
+    background-color: #82E0AA;
+}
+
+button.btn.btn-primary:hover {
+background-color: #85C1E9 ;
+}
+
+h4, b{
+    font-family: 'Roboto', sans-serif;
+}
+
+input{
+    background-color:#fff ;
+}
+
+.act-hor {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 0px;
+    border-top: 1px solid #8c8c8c ;
+    border-bottom: 1px solid #8c8c8c ;
+}

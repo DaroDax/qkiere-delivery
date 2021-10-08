@@ -1,0 +1,94 @@
+div.product-name img {
+    width: 50px;
+    border-radius:100%;
+}
+
+div.product-name {
+    padding: 5px 5px;
+}
+
+div.product-name {
+    display: grid;
+    grid-template-columns: 0fr 1fr;
+    text-align: left !important;
+    
+}
+
+div.product-name h2 {
+    font-size: 1.2em;
+    margin: 12px 10px;
+    font-family: 'Roboto Slab',
+        serif;
+    letter-spacing: 0.05em;    
+}
+
+div.img-card img {
+    width: 100%;
+}
+
+div.product-info {
+    display: grid;
+    grid-template-columns: 1fr 0fr;
+    margin: 5px 15px;
+    text-align: left !important;
+}
+
+div.product-info i.fas.fa-heart {
+    padding: 0;
+    margin: 0;
+    justify-self: center;
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    font-size: 1.8em !important;
+}
+
+div.product-info h4 {
+    font-family: 'Montserrat',
+        sans-serif;
+    font-size: 1.2em !important;
+}
+
+div.product-info h5 {
+    font-family: 'Roboto Slab',
+        serif;
+    font-size: 1.5em !important;
+}
+
+div.add-button {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin: 15px 0px;
+}
+
+a.button-a {
+    background-color: #FF6A00;
+    color: #FFF;
+    text-decoration: none;
+    width: 30%;
+    padding: 15px 0px;
+    text-align: center;
+    font-family: 'Roboto Slab',
+        serif;
+}
+
+a.button-a:hover {
+    background-color: #FFA600;
+    border-radius: 10px;
+    transition: border-radius 0.2s;
+}
+
+.info-pre {
+    display: flex;
+}
+
+h2.pro_nom {
+    font-size: 1.5em;
+    font-weight: bold;
+    font-family: 'Roboto Slab',
+        serif;
+        color: #000 !important;
+        cursor: pointer !important;
+}
+

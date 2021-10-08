@@ -1,0 +1,328 @@
+[12-Jan-2021 21:32:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method categoria_cli::listar_select() in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php on line 12
+[12-Jan-2021 21:32:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(26): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[12-Jan-2021 21:32:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method categoria_cli::listar_select() in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php on line 12
+[12-Jan-2021 21:32:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(26): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[12-Jan-2021 21:33:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method categoria_cli::listar_select() in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php on line 12
+[12-Jan-2021 21:33:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(26): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[12-Jan-2021 21:38:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method categoria_cli::listar_select() in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php on line 12
+[12-Jan-2021 21:38:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(26): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[12-Jan-2021 21:38:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(26): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[12-Jan-2021 21:38:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method categoria_cli::listar_select() in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php on line 12
+[12-Jan-2021 21:38:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method categoria_cli::listar_select() in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php on line 12
+[12-Jan-2021 21:38:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(26): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[12-Jan-2021 21:38:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method categoria_cli::listar_select() in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php on line 12
+[12-Jan-2021 21:38:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(26): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[12-Jan-2021 21:39:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method categoria_cli::listar_select() in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php on line 12
+[12-Jan-2021 21:39:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(26): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[12-Jan-2021 21:39:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(26): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[12-Jan-2021 21:39:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method categoria_cli::listar_select() in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php on line 12
+[12-Jan-2021 21:39:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method categoria_cli::listar_select() in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php on line 12
+[12-Jan-2021 21:39:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(26): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[12-Jan-2021 21:39:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method categoria_cli::listar_select() in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php on line 12
+[12-Jan-2021 21:39:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(26): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[12-Jan-2021 21:39:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method categoria_cli::listar_select() in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php on line 12
+[12-Jan-2021 21:39:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(26): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[12-Jan-2021 21:39:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method categoria_cli::listar_select() in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php on line 12
+[12-Jan-2021 21:39:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(26): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[13-Jan-2021 01:00:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method categoria_cli::listar_select() in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php on line 12
+[13-Jan-2021 01:00:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(26): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[13-Jan-2021 12:52:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method categoria_cli::listar_select() in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php on line 12
+[13-Jan-2021 12:52:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(26): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[13-Jan-2021 12:52:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method categoria_cli::listar_select() in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php on line 12
+[13-Jan-2021 12:52:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(26): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[13-Jan-2021 12:52:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method categoria_cli::listar_select() in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php on line 12
+[13-Jan-2021 12:52:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(26): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[13-Jan-2021 12:52:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method categoria_cli::listar_select() in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php on line 12
+[13-Jan-2021 12:52:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(26): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[13-Jan-2021 12:52:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method categoria_cli::listar_select() in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php on line 12
+[13-Jan-2021 12:52:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(26): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[13-Jan-2021 13:14:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(26): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[13-Jan-2021 13:14:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method categoria_cli::listar_select() in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php on line 12
+[13-Jan-2021 17:37:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method categoria_cli::listar_select() in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php on line 12
+[13-Jan-2021 17:37:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(26): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[13-Jan-2021 17:37:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method categoria_cli::listar_select() in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php on line 12
+[13-Jan-2021 17:37:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(26): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[13-Jan-2021 17:37:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method categoria_cli::listar_select() in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php on line 12
+[13-Jan-2021 17:37:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(26): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[13-Jan-2021 17:37:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method categoria_cli::listar_select() in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php on line 12
+[13-Jan-2021 17:37:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(26): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[13-Jan-2021 17:37:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method categoria_cli::listar_select() in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php on line 12
+[13-Jan-2021 17:37:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(26): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[13-Jan-2021 17:38:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method categoria_cli::listar_select() in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php on line 12
+[13-Jan-2021 17:38:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(26): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[13-Jan-2021 17:44:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method categoria_cli::listar_select() in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_cat_cliente.php on line 12
+[13-Jan-2021 17:44:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(26): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[14-Jan-2021 12:31:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(25): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[14-Jan-2021 20:45:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(28): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[14-Jan-2021 20:45:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(28): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[14-Jan-2021 20:45:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(28): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[14-Jan-2021 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(28): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[14-Jan-2021 20:46:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(28): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[14-Jan-2021 20:47:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(28): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[14-Jan-2021 23:33:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(28): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[14-Jan-2021 23:33:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(28): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[14-Jan-2021 23:56:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(28): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[15-Jan-2021 00:02:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(28): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[15-Jan-2021 02:03:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(28): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[16-Jan-2021 17:20:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(28): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[17-Jan-2021 15:27:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(28): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[17-Jan-2021 15:27:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(28): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[17-Jan-2021 23:59:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(28): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58
+[17-Jan-2021 23:59:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php:58
+Stack trace:
+#0 /home/zonnesystemy/public_html/qkiere.com/usuario/backend/ajax/query_select/query_sitios_disponibles.php(28): utilidad->extraer_dato()
+#1 {main}
+  thrown in /home/zonnesystemy/public_html/qkiere.com/usuario/backend/clase/utilidad.class.php on line 58

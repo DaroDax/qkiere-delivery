@@ -1,0 +1,152 @@
+.title {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    font-size: 1.5em;
+    background-color: #FF6A00;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    color: #fff;
+}
+
+.iniciar h3,
+.registrar h3,
+.divider h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal !important;
+}
+
+.iniciar:hover,
+.registrar:hover {
+    color: #FFA600;
+    transition: color 0.2s;
+    cursor: pointer;
+}
+
+.google_items {
+    background: #FFF;
+    border: 1px solid #FF6A00;
+    display: inline-block;
+    width: 80%;
+    display: grid;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.google_items a {
+    color: #3498DB;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.google_items:hover {
+    cursor: pointer;
+    border-radius: 20px;
+    transition: border-radius 0.5s;
+
+    box-shadow: 10px 5px 5px #D5F5E3;
+}
+
+img.google_icon {
+    width: 30px;
+}
+
+.iniciar_items {
+    display: grid;
+}
+
+input.form-control {
+    padding: 10px;
+    margin: 8px 10px;
+    border: 1px solid #FF6A00;
+    outline: none;
+    font-family: 'Roboto', sans-serif;
+    ;
+    border-radius: 15px;
+}
+
+input.form-control:focus {
+    border-radius: 0px;
+    transition: border-radius 0.2s;
+}
+
+select.form-control {
+    padding: 10px;
+    margin: 8px 10px;
+    border: 1px solid #FF6A00;
+    outline: none;
+    font-family: 'Roboto', sans-serif;
+    ;
+    border-radius: 15px;
+    width:85%;
+}
+
+select.form-control:focus {
+    border-radius: 0px;
+    transition: border-radius 0.2s;
+}
+
+.final_button {
+    padding: 20px;
+    background-color: #FF6A00;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    border-radius: 10px;
+    margin: 10px 12px;
+    outline: none;
+    border: none;
+    color: #fff;
+}
+
+.final_button:hover {
+    cursor: pointer;
+    background-color: #FFA600;
+    transition: background-color 0.2s;
+}
+
+.iniciar_sesion {
+    border-bottom: 1px solid #8C8B88;
+}
+
+.registrarse {
+    border-bottom: 1px solid #8C8B88;
+    border-top: 1px solid #8C8B88;
+    margin: 10px 0px;
+}
+
+.registrar_items {
+    display: grid;
+}
+
+
+
+div.nom .form-control,
+div.pas .form-control,
+div.ema .form-control {
+    width: 80%;
+}
+
+select#phone_N {
+    padding: 10px;
+    border: 1px solid #FF6A00;
+    border-radius: 10px;
+    outline: none;
+    width: 18%;
+    background-color: #FFF;
+
+}
+
+select#phone_N:focus {
+    border-radius: 0px;
+    transition: border-radius 0.2s;
+}
+
+div.tel .form-control {
+    width: 57%;
+}
+
+div#main_page {
+    padding-top: 55px;
+}

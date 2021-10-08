@@ -1,0 +1,54 @@
+.buttons_user {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+}
+
+.usuario-but,
+.gps-but {
+    text-align: center;
+}
+
+.buttons_user {
+    border: 1px solid #FF6A00;
+    padding: 10px 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.usuario-but {
+    border-right: 1px solid #FF6A00;
+    width: 100%;
+}
+
+.usuario-but,
+.gps-but {
+    width: 100%;
+}
+
+.usuario-but:hover,
+.gps-but:hover {
+    background-color: #FF6A00;
+    color: #fff;
+    transition: background-color 0.2s;
+    cursor: pointer;
+}
+
+h5.buttons {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/*-----------------------------------------*/
+
+div.fav_content{
+    padding-top:10px;
+}
+
+input#cod_tie_fav,
+input#cod_inv {
+    /*position: absolute;*/
+    right: 0;
+    transform: scale(2);
+}

@@ -1,0 +1,35 @@
+@media screen and (min-width:960px){
+ /*Menu------------------------------*/
+  div#nuevos {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap:10px;
+    column-gap:30px
+    }
+
+    div#aceptados {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap:30px;
+    row-gap:10px;
+    }
+
+/*-----------------------------------------------*/
+.inventario_resultado {
+    display: grid;
+    grid-template-columns:1fr 1fr;
+    row-gap:30px;
+    column-gap:30px;
+}
+/*-----------------------------------------------*/
+.domiciliarios {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 20px;
+    column-gap: 30px;
+    }   
+/*-----------------------------------------------*/
+.tienda_content {
+        padding:20px 150px !important;
+    }
+}

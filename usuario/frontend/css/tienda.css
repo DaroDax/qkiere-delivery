@@ -1,0 +1,96 @@
+div.tienda-name {
+    display: grid;
+    grid-template-columns: 0fr 1fr 0fr;
+    margin: 10px 10px;
+    text-align: left !important;
+}
+
+div.tienda-info{
+    text-align: left !important;
+}
+
+div.tienda-name img {
+    width: 80px;
+    border-radius: 100px;
+    border:1px solid #fff;
+}
+
+div.tienda-name h1 {
+    font-family: 'Comic Neue',
+    cursive;
+    font-size: 1.5em;
+    padding: 25px 20px;
+}
+
+.days_of_week {
+    font-family: 'Arial',
+        sans-serif;
+    font-weight: bold;
+}
+
+div.tienda-info h5 {
+    color: #3498DB;
+    margin-bottom: 5px;
+    font-family: 'Roboto',
+        sans-serif;
+}
+
+div.tienda-info h4 {
+    margin-top: 5px;
+    font-family: 'Montserrat',
+        sans-serif;
+}
+
+select#cat_pro {
+    margin: 25px 0px;
+    width: 85%;
+    padding: 15px;
+    border: solid 1px #FF6A00;
+    text-align-last: center;
+    font-family: 'Roboto',
+        sans-serif;
+    font-size: 1em;
+    outline: none;
+    background-color: #fff;
+}
+
+div.inv_list {
+    display: grid;
+    grid-template-columns: [x0] 1fr [x1] 1fr [x2] 1fr [x3];
+}
+
+div.img-card img {
+   width: 96%;
+   height: 98%;
+   border: 2px solid #fff;
+   height: 160px;
+}
+
+.img-card {
+    height: 100%;
+}
+
+div.inv_cat{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+div.tienda-info {
+    margin: 10px;
+}
+
+
+.book {
+    display: flex;
+    align-items: center;
+}
+
+.dias_semana {
+    display: grid;
+    grid-template-columns: 0fr 0fr 0fr 0fr 0fr 0fr 0fr 0fr;
+}
+
+div.dias_semana h5 {
+    margin:0px 10px
+}

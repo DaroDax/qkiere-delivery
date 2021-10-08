@@ -1,0 +1,208 @@
+*{
+    font-family: 'Permanent Marker',
+    cursive;
+}
+
+body{
+background-color: #fff !important;
+}
+
+div.bottom_bar{
+    height:38px;
+}
+
+div.page_content{
+    display: grid;
+    grid-template-columns: [x0] 1fr [x1] 3fr [x2] 1fr [x3];
+
+    grid-template-rows: [x0] 60px [x1] 450px [x2] 60px [x3];
+
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+
+}
+
+div.login{
+       width: 60%;
+
+       grid-column-start: x1;
+        grid-column-end: x2;
+
+        grid-row-start: x1;
+        grid-row-end: x2;
+
+        justify-content: center;
+        align-content: center;
+
+        background-color:#262320;
+        border-radius: 20px;
+        text-align: center;
+        height: auto;
+}
+
+input.input_form{
+    justify-self: center;
+    align-self: center;
+
+    margin-top:30px;
+    width: 80%;
+    height: 35px;
+    border-radius: 15px;
+    border: 0;
+    outline: none;
+    padding: 6px 10px;
+}
+
+input.input_form:focus{
+    background-color: rgba(255, 220, 155, 0.9);
+    border: 0 !important;
+    outline: none;
+}
+
+i.fa.fa-lg.fa-user, i.fa.fa-lg.fa-lock, i.fas.fa-lg.fa-at,i.fa.fa-lg.fa-phone{
+    margin-right: 10px;
+}
+
+i.fa.fa-lg.fa-phone{
+     transform: scaleX(-1);
+}
+
+a.sup_buttom1, a.sup_buttom2{
+           font-family: 'Bebas Neue', cursive;
+            letter-spacing: 0.1em;  
+            text-decoration: none;
+            color: #fff;
+            font-size:1.8em;
+}
+
+div.sup_login{
+    display: grid;
+    grid-template-columns: [x0] 1fr [x1] 0.5fr [x2] 1fr [x3];
+}
+
+div.sup_item1{
+     grid-column-start: x0;
+        grid-column-end: x1;
+}
+
+a.sup_buttom1{
+    color:#F2C063;
+}
+
+
+
+div.mediate{
+     grid-column-start: x1;
+        grid-column-end: x2;
+}
+
+div.sup_item2{
+     grid-column-start: x2;
+        grid-column-end: x3;
+}
+
+@media screen and (max-width:1024px) and (min-width:300px){
+    div.page_content{
+    display: grid;
+   grid-template-columns: [x0] 1fr [x1] 3fr [x2] 1fr [x3] !important;
+     grid-template-rows: [x0] 30px [x1] 450px [x2] 30px [x3] !important;
+
+   padding: 0px 0px !important;
+   padding-right: 15px !important;
+   padding-left:2px !important;
+    }
+
+    div.login{
+        width:100%;
+        grid-column-start: x0;
+        grid-column-end: x3;
+
+    }
+}
+
+button.login_button{
+    padding: 20px 0px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 50%;
+    background-color: #D9A566 ;
+    border: 0;
+    border-radius: 15px;
+    font-size: 1.2em;
+    color: #fff;
+}
+
+button.login_button:hover{
+    background-color:#F2C063 ;
+    border-radius: 0px;
+    transition: border-radius 0.5s;
+}
+
+a.forgot_pass{
+    color:#51b7f7;
+    margin-top:20px ;
+}
+
+.title{
+    font-size: 2em;
+}
+
+.item-box{
+     grid-column-start: x1;
+     grid-column-end: x2;
+     grid-row-start: x1;
+     grid-row-end: x2;
+   
+     box-shadow: 12px 12px 13px #8c8b88;
+     border-radius: 20px;
+     width: 60%;
+     text-align: center;
+}
+
+div.title{
+    font-family: 'Arial',
+    cursive;
+    font-style: italic;
+}
+
+select.form-control, option{
+   font-family: 'Arial',
+   cursive;
+}
+select#municipios{
+    padding: 15px;
+    margin-top: 25px;
+    width: 90%;
+    border-radius: 30px;
+    border: 1px solid #FF6A00;
+    outline: none;
+    background-color: #fff;
+}
+
+select#municipios:focus {
+    background-color: #fff;
+    outline: none;
+}
+
+div.play-store-box img {
+    width: 80%;
+    margin-top: 10px;
+}
+
+h2.info-text{
+     font-family: 'Montserrat',
+     sans-serif;
+}
+
+@media screen and (max-width:1024px) and (min-width:300px){
+    .item-box {
+        grid-column-start: x0;
+        grid-column-end: x3;
+        grid-row-start: x1;
+        grid-row-end: x3;
+        width: 80%;
+    }
+
+}

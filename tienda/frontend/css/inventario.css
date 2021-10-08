@@ -1,0 +1,143 @@
+.info-pedido {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    padding-bottom:5px;
+    border-bottom:2px dashed #ccc
+}
+
+.img-pedido {
+    width: 100%;
+    padding: 0px 5px;
+
+}
+
+img.logo-pedido {
+    width: 100%;
+    border: 2px solid #FF6A00;
+    border-radius: 20px;
+    height:220px;
+}
+
+img.logo-pedido:hover {
+    border: 3px solid #FF6A00;
+    border-radius: 0px;
+    transition: border 0.2s;
+    transition: border-radius 0.2s;
+}
+
+.datos-pedido {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    padding: 0px 20px;
+}
+
+h3.nam-pedido {
+    justify-self: right;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+    padding: 8px 0px;
+}
+
+.lt-des {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+
+    font-family: 'Montserrat';
+    padding: 8px 0px;
+}
+
+.lt-items {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+.group-btn {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 20px 0px;
+    justify-items: center;
+}
+
+.pedidos_content {
+    padding-top: 10px;
+}
+
+.lt-items,
+.lt-des {
+    justify-items: center;
+}
+
+.line-time {
+    padding: 10px 0px;
+    border-bottom: 2px dashed #ccc;
+}
+
+.pedidos-card {
+    border-radius: 10px;
+    box-shadow: 0px 11px 20px 0px #8C8B88;
+    padding-top:10px;
+}
+
+h4.des-pedido {
+    font-family: 'Montserrat';
+    padding: 8px 0px;
+    font-weight: 1000;
+}
+
+i#delete {
+    color: #C0392B;
+}
+
+i#details {
+    color: #FF6A00;
+}
+
+i#dom_details {
+    color: #F1C40F;
+}
+
+i#delete,
+i#details,
+i#dom_details{
+cursor:pointer;
+}
+
+h3.des_pro{
+    font-family: 'Roboto',
+    sans-serif;
+    font-size:0.8em;
+}
+
+a.yello-view {
+    text-decoration: none;
+    background-color: #F5B041;
+    color: #FFF;
+    padding: 12px;
+}
+
+a.delete_red {
+    text-decoration: none;
+    background-color: #E74C3C;
+    color: #fff;
+    padding: 12px 10px;
+}
+
+a.yello-view ,
+a.delete_red {
+    font-family: 'Montserrat',
+    sans-serif;
+}
+
+i.far.fa-plus-square:hover {
+    font-size: 1.5em;
+    transition: font-size 0.5s;
+}
+
+img.img-responsive {
+    width: 100%;
+}
+
+h2.out {
+    text-align: center;
+    color: #8c8c8c;
+}

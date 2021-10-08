@@ -1,0 +1,88 @@
+.card-cart {
+    text-align: center;
+    border-bottom: 2px solid #ccc;
+    border-top: 2px solid #ccc;
+    padding-top: 10px;
+    margin-bottom: 30px;
+    border-radius: 10px
+}
+
+
+thead th {
+    background-color: #FF6A00 !important;
+    color: #fff;
+    font-family: 'Montserrat',
+        sans-serif;
+    letter-spacing: 0.1em;
+}
+
+table {
+    border: 1px solid #FF6A00 !important;
+}
+
+div.cart-table {
+    margin: 10px 5px
+}
+
+td h4 {
+    font-size: 1em;
+    font-weight: bold;
+}
+
+td.unit_price h4 {
+    font-weight: 400;
+}
+
+p.order_total {
+    color: #E74C3C;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+p.order_total strong {
+    color: #000;
+    font-size: 1em;
+    font-weight: 400;
+}
+
+a.buy-button {
+    text-decoration: none;
+    color: #fff;
+}
+
+a.buy-button:hover {
+    text-decoration: none;
+    color: #fff;
+}
+
+
+div.price-button {
+    background-color: #FF6A00;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding:15px 0px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+div.price-button:hover {
+    background-color: #FFA600;
+    border-radius: 10px;
+    transition: border-radius 0.3s;
+    font-weight: 700;
+}
+
+.options-div {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+i.far.fa-trash-alt {
+    color: #E74C3C;
+}
+
+h2.out {
+    text-align: center;
+    color: #8c8c8c;
+}

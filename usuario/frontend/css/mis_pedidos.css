@@ -1,0 +1,110 @@
+.info-pedido {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    padding-bottom:5px;
+    border-bottom:2px dashed #ccc
+}
+
+.img-pedido {
+    width: 100%;
+    padding: 0px 5px;
+
+}
+
+img.logo-pedido {
+    width: 100%;
+    border: 2px solid #FF6A00;
+    border-radius: 20px;
+}
+
+img.logo-pedido:hover {
+    border: 3px solid #FF6A00;
+    border-radius: 0px;
+    transition: border 0.2s;
+    transition: border-radius 0.2s;
+    cursor: pointer;
+}
+
+.datos-pedido {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    padding: 0px 20px;
+}
+
+h3.nam-pedido {
+    justify-self: right;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+    padding: 8px 0px;
+}
+
+.lt-des {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+
+    font-family: 'Montserrat';
+    padding: 8px 0px;
+}
+
+.lt-items {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+.options-pedido {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 10px 0px;
+    justify-items: center;
+}
+
+.pedidos_content {
+    padding-top: 10px;
+}
+
+.lt-items,
+.lt-des {
+    justify-items: center;
+}
+
+.line-time {
+    padding: 10px 0px;
+    border-bottom: 2px dashed #ccc;
+}
+
+.pedidos-card {
+    border-radius: 10px;
+    box-shadow: 0px 11px 20px 0px #8C8B88;
+    padding-top:10px;
+}
+
+h4.des-pedido {
+    font-family: 'Montserrat';
+    padding: 8px 0px;
+    font-weight: 1000;
+}
+
+i#delete {
+    color: #C0392B;
+}
+
+i#details {
+    color: #FF6A00;
+}
+
+i#dom_details {
+    color: #F1C40F;
+}
+
+i#delete,
+i#details,
+i#dom_details{
+cursor:pointer;
+}
+
+h2.out {
+    text-align: center;
+    color: #8c8c8c;
+}
+
+

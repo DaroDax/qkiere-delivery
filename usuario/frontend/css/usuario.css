@@ -1,0 +1,254 @@
+.buttons_user {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+}
+
+.usuario-but,
+.gps-but {
+    text-align: center;
+}
+
+.user_content {
+    padding-top: 15px;
+}
+
+.usr-img {
+    display: grid;
+    grid-template-rows: 4fr 1fr;
+}
+
+.img-part {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+img.usr-pic {
+    width: 30%;
+    justify-self: center;
+    align-self: center;
+}
+
+.opt-part {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+}
+
+.opt-part {
+    justify-content: center;
+    /* padding: 0px 20px; */
+}
+
+input.usr-form {
+    outline: none;
+    border: 1px solid #FF6A00;
+    padding: 10px 0px;
+    text-align: center;
+    margin: 10px 0px;
+    width: 80%;
+    border-radius: 10px;
+}
+
+.usr-info {
+    text-align: center;
+}
+
+input#cod_usu,
+input#tel_usu,
+input#chat_usu {
+    display: inline-block;
+}
+
+input#cod_usu {
+    width: 15%;
+}
+
+input#tel_usu {
+    width: 65%;
+}
+
+input#chat_usu {
+    border-right: 0px solid;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    width: 75%;
+}
+
+i.fab.fa-telegram-plane {
+    border: 1px solid #FF6A00;
+    padding-top: 8px;
+    padding-bottom: 11px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-top: 0px;
+    background-color: #FF6A00;
+    color: #fff;
+}
+
+i.fab.fa-telegram-plane:hover {
+    background-color: #FFA600;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.pas_change {
+    text-align: center;
+    padding: 10px 0px;
+    background-color: #FF6A00;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.pas_change:hover {
+    background-color: #FFA600;
+    transition: background-color 0.2s;
+}
+
+a.btn-pass {
+    text-decoration: none;
+    color: #FFF;
+    font-family: 'Montserrat',
+    sans-serif;
+    font-weight: bold;
+}
+
+.buttons_user {
+    border: 1px solid #FF6A00;
+    padding: 10px 0px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.usuario-but {
+    border-right: 1px solid #FF6A00;
+    width: 100%;
+}
+
+.usuario-but,
+.gps-but {
+    width: 100%;
+}
+
+.usuario-but:hover,
+.gps-but:hover {
+    background-color: #FF6A00;
+    color: #fff;
+    transition: background-color 0.2s;
+    cursor: pointer;
+}
+
+h5.buttons {
+    font-family: 'Montserrat', sans-serif;
+}
+
+i.fas.fa-edit:hover,
+i.far.fa-check-square:hover {
+    cursor: pointer
+}
+
+/*------------------------------Estilos de las direcciones-------------------------------*/
+
+.add_dir {
+    text-align: center;
+    padding: 10px 0px;
+    background-color: #FF6A00;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.add_dir:hover {
+    background-color: #FFA600;
+    transition: background-color 0.2s;
+    border-radius: 0px;
+    transition: border-radius background-color 0.2s;
+}
+
+a.add_button {
+    text-decoration: none;
+    color: #FFF;
+    font-family: 'Montserrat',
+        sans-serif;
+    font-weight: bold;
+}
+
+.sup-items {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
+.icons-dir {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.buttom-items {
+    border: 2px dashed #8C8B88;
+    margin: 10px;
+    border-radius: 10px;
+    padding:10px;
+}
+
+h3.nom-dir {
+    padding: 10px 0px;
+}
+
+h4.des-dir {
+    padding: 5px 0px;
+}
+
+h5.mun-dir {
+    padding: 5px 0px;
+}
+
+h5.sec-dir {
+    padding: 5px 0px;
+}
+
+h5.dir-dir {
+    justify-self: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+    font-weight: 700;
+}
+
+h3.nom-dir,
+h4.des-dir,
+h5.mun-dir,
+h5.sec-dir {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.dir-list {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding: 20px 0px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+i.fas.fa-edit {
+    color: #2E86C1;
+}
+
+i.far.fa-minus-square {
+    color: #C0392B;
+}
+
+i.far.fa-check-square {
+    color: #229954;
+}
